@@ -8,9 +8,9 @@ cache:
   - bundler
   - yarn
 
-branches:
-  only:
-    - "master"
+
+
+
 
 env:
   - RAILS_ENV=test
